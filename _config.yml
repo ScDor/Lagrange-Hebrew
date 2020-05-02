@@ -20,9 +20,9 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-themename:              'لاگارانژ'
-title:		           'لاگارانژ'
-description:	      'גקיל היא תבנית פשוטה'
+themename:              'לגראנז&apos;'
+title:		           'לגראנז&apos;'
+description:	      'ג&apos;קיל היא תבנית פשוטה'
 author:              'Paul Le'
 translator:          'ScDor'
 

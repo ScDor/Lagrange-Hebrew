@@ -30,4 +30,4 @@ translator:          'ScDor'
 #feed:
 #  path: rss-feed.xml
 
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-time-machine

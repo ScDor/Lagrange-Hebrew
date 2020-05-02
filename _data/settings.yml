@@ -1,7 +1,7 @@
 # Change to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+  disqus_shortname: 'https-YOURUSERNAME-github-io-lagrange'
 
 menu:
 - {name: 'אודות', path: 'menu', url: 'about.html'}

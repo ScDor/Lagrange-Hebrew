@@ -1,3 +1,8 @@
+# What's different in this fork
+This is a translated version of [omidonrails/Lagrange-RTL](https://github.com/omidonrails/Lagrange-RTL). 
+The **only differences** are some general website strings (such as "next page") that are translated from Farsi to Hebrew.
+
+
 # Lagrange
 
 Lagrange is a minimalist Jekyll theme for running a personal blog or site for free through [Github Pages](https://pages.github.com/), or on your own server. Everything that you will ever need to know about this Jekyll theme is included in the README below, which you can also find in [the demo site](https://lenpaul.github.io/Lagrange/).
